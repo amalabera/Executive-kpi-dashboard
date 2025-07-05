@@ -1,6 +1,6 @@
 # 📊 Executive KPI Dashboard
 
-**Live App**: _Coming Soon_  
+**Live App**: (https://marks-predictor.streamlit.app)
 **Repository**: [https://github.com/amalabera/Executive-kpi-dashboard](https://github.com/amalabera/Executive-kpi-dashboard)
 
 ---
