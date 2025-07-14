@@ -44,6 +44,4 @@ Executive-kpi-dashboard/
 ## 👩‍💻 Author
 
 Amala Bera
-📧 beraamla43@gmail.com (:mailto:beraamla43@gmail.com)
-🔗 LinkedIn: https://www.linkedin.com/in/amalabera
-GitHub:https://github.com/amalabera
+
